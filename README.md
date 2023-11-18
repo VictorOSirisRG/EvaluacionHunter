@@ -8,5 +8,5 @@ Para autorizarce deben en el campo value luego de darle click en authorize escri
 
 Se cumplio todo lo especificado en el requerimiento.El Enfoque con el cual cree el proyecto fue Code First por lo que pueden recrear la bd hacendo Add-Migration y luego update-database.
 
-Subire a parte la bd creada en una carpeta a parte por si necesitan verla.
+Subire a parte la bd creada  por si necesitan verla.
 
